@@ -1,0 +1,266 @@
+[
+  {
+    "conversation_id": 1,
+    "turn_id": 3,
+    "text": "Thanks for applying to our Python Developer opening. What kinds of Python projects have you worked on recently? I've been using Python professionally for five years, mostly for data analysis.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 1,
+    "turn_id": 5,
+    "text": "Thanks for applying to our Python Developer opening. What kinds of Python projects have you worked on recently? I've been using Python professionally for five years, mostly for data analysis. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? I can't at that time\u2014I'm busy.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 1,
+    "turn_id": 7,
+    "text": "Thanks for applying to our Python Developer opening. What kinds of Python projects have you worked on recently? I've been using Python professionally for five years, mostly for data analysis. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? I can't at that time\u2014I'm busy. No problem. How about Thursday at 4\u202fPM instead? Monday at 3\u202fPM is good.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Django and Flask.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Django and Flask. Do you have any questions of your own? Could you share more about the company's cloud technologies?",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Django and Flask. Do you have any questions of your own? Could you share more about the company's cloud technologies? We currently deploy to AWS using Docker and ECS. Sounds great! I'd be happy to schedule a meeting",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 9,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Django and Flask. Do you have any questions of your own? Could you share more about the company's cloud technologies? We currently deploy to AWS using Docker and ECS. Sounds great! I'd be happy to schedule a meeting Understood\u2014what about next Tuesday at 10\u202fAM? Tuesday at 10\u202fAM works.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience and two with SQL.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience and two with SQL. How comfortable are you with SQL in addition to Python? Very comfortable, may I ask what technologies does the current stack use?",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience and two with SQL. How comfortable are you with SQL in addition to Python? Very comfortable, may I ask what technologies does the current stack use? We currently deploy to AWS using Docker and ECS. I would like to set an appointment, does Monday at 3\u202fPM is good.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python professionally for five years, mostly for data analysis.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python professionally for five years, mostly for data analysis. Are you also using SQL in addition to Python? Yes, SQL is a big part of my job. Is the position fully remote or hybrid?",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 7,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python professionally for five years, mostly for data analysis. Are you also using SQL in addition to Python? Yes, SQL is a big part of my job. Is the position fully remote or hybrid? Hybrid work model, with at least two days of remote work per week, will you be able to meet next Wednesday at 10\u202fAM Wednesday at 10\u202fAM works for me.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 5,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I primarily work with Python for backend services.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 5,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I primarily work with Python for backend services. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Please remove me from your list. Thanks.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 6,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python professionally for five years.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 6,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python professionally for five years. Could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? Friday 11\u202fAM sounds great.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Django and Flask.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Django and Flask. How about an interview Monday at 3\u202fPM or Tuesday at 11\u202fAM? I'm unavailable then; do you have any other times?",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 7,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Django and Flask. How about an interview Monday at 3\u202fPM or Tuesday at 11\u202fAM? I'm unavailable then; do you have any other times? Understood\u2014what about next Tuesday at 10\u202fAM? Tuesday at 10\u202fAM works.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Python.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Python. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Those slots don't work for me.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 7,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Python. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Those slots don't work for me. Understood\u2014what about next Tuesday at 10\u202fAM? I'm unavailable at that time, as I have other commitments. I'll reach out if it becomes relevant",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 9,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I have three years' experience with Python. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Those slots don't work for me. Understood\u2014what about next Tuesday at 10\u202fAM? I'm unavailable at that time, as I have other commitments. I'll reach out if it becomes relevant How about next Thursday? I will be intouch, please stop texting me",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I've been using Python professionally for five years, mostly for data analysis.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I've been using Python professionally for five years, mostly for data analysis. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Tuesday at 10\u202fAM works. But can I get more details about the position?",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I've been using Python professionally for five years, mostly for data analysis. Our engineering manager can interview you Wednesday at 10\u202fAM or Thursday at 2\u202fPM. Which works best? Tuesday at 10\u202fAM works. But can I get more details about the position? Great, your interview is confirmed. Sure, We're looking for a skilled Python Developer with expertise in Python 3 and experience working with frameworks such as Django, Flask, or FastAPI. The ideal candidate should be familiar with building RESTful APIs, working with SQL or NoSQL databases, and using version control systems like Git. Sounds greate, see you then",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python for a couple of month, I don't have much experience in that area, but I'm eager to learn and quickly adapt.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python for a couple of month, I don't have much experience in that area, but I'm eager to learn and quickly adapt. Could you elaborate on your experience with cloud platforms like AWS or GCP? I've worked a bit with AWS, but I don't have experience with GCP yet.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 7,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I've been using Python for a couple of month, I don't have much experience in that area, but I'm eager to learn and quickly adapt. Could you elaborate on your experience with cloud platforms like AWS or GCP? I've worked a bit with AWS, but I don't have experience with GCP yet. I see, could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? Monday at 3\u202fPM is good.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Pyhon and AWS.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Pyhon and AWS. Could you elaborate on your experience with cloud platforms like AWS? I've worked a bit with AWS, mainly for deploying small apps and managing storage, but I'm still gaining experience and open to learning more.",
+    "last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Pyhon and AWS. Could you elaborate on your experience with cloud platforms like AWS? I've worked a bit with AWS, mainly for deploying small apps and managing storage, but I'm still gaining experience and open to learning more. I see, the role focuses on building backend services in Python, mainly FastAPI. Sounds very interesting, I'm confident I can handle it",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 9,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I have three years' experience with Pyhon and AWS. Could you elaborate on your experience with cloud platforms like AWS? I've worked a bit with AWS, mainly for deploying small apps and managing storage, but I'm still gaining experience and open to learning more. I see, the role focuses on building backend services in Python, mainly FastAPI. Sounds very interesting, I'm confident I can handle it Great, Can we set up a meeting next Tuesday Yes, absolutely!",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Yes, 3 years' experience",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Yes, 3 years' experience Could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? Those slots don't work for me.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Yes, 3 years' experience Could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? Those slots don't work for me. No problem. How about Thursday at 4\u202fPM instead? Wednesday at 10\u202fAM works for me.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 13,
+    "turn_id": 3,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I primarily work with Python for backend services and have solid SQL knowledge.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 13,
+    "turn_id": 5,
+    "text": "Hello! I saw your application for the Python Developer position\u2014how long have you been working with Python? I primarily work with Python for backend services and have solid SQL knowledge. Could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? I'm no longer interested in the position.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience. How about an interview Monday at 3\u202fPM or Tuesday at 11\u202fAM? I can't at that time\u2014I'm busy.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 7,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? Sure, I have four years of Python experience. How about an interview Monday at 3\u202fPM or Tuesday at 11\u202fAM? I can't at that time\u2014I'm busy. Alright, would Wednesday at 1\u202fPM work? Tuesday at 10\u202fAM works.",
+    "last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 15,
+    "turn_id": 3,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I've been using Python professionally for five years, mostly for ML.",
+    "last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 15,
+    "turn_id": 5,
+    "text": "Hi, thanks for submitting your application for our Python Developer role. Could you share a bit about your Python experience? I've been using Python professionally for five years, mostly for ML. Could we schedule a chat this Friday at 11\u202fAM or next Monday at 9\u202fAM? I'm sorry, but I'm no longer interested.",
+    "last_tool_used": "Exit"
+  }
+]

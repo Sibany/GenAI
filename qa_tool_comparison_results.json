@@ -1,0 +1,266 @@
+[
+  {
+    "conversation_id": 1,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 1,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Info",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 1,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 2,
+    "turn_id": 9,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 3,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 4,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 5,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 5,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 6,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 6,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 7,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Info",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 8,
+    "turn_id": 9,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 9,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Info",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 10,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Info"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 11,
+    "turn_id": 9,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 12,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 13,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 13,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 14,
+    "turn_id": 7,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  },
+  {
+    "conversation_id": 15,
+    "turn_id": 3,
+    "test_result_last_tool_used": "Schedule",
+    "sms_conversations_last_tool_used": "Schedule"
+  },
+  {
+    "conversation_id": 15,
+    "turn_id": 5,
+    "test_result_last_tool_used": "Exit",
+    "sms_conversations_last_tool_used": "Exit"
+  }
+]

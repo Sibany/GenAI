@@ -1,0 +1,12 @@
+pip install pip-system-certs
+pip install openai
+pip install python-dotenv
+pip install PyPDF2
+pip install chromadb
+pip install langchain
+pip install streamlit
+pip install langchain-community
+pip install langchain-openai  OR         pip install langchain[all]
+pip install pypdf
+pip install pyodbc
+pip install SQLAlchemy
