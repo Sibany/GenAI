@@ -12,7 +12,8 @@
 </p>
 
 ---
-<img src="https://github.com/Sibany/GenAI/images/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
+<img src="https://github.com/Sibany/GenAI/WhatsApp%20Video%202025-08-06%20at%2022.26.36.gif" width="450" alt="Chatbot in Action (GIF)"/>
+
 ## 💡 Overview
 This project provides a modular chatbot system with specialized agents designed to streamline the recruitment process.  
 It leverages cutting-edge AI technologies to interact with candidates, assess their suitability for roles, and manage interview logistics.
@@ -44,9 +45,9 @@ It leverages cutting-edge AI technologies to interact with candidates, assess th
     - An `module_exit` to gracefully end the conversation.
 - **Model Evaluation Dashboard:** A dedicated Streamlit dashboard to evaluate the performance of the model using metrics like overall accuracy and a confusion matrix heatmap.
 
-## 🖼️ streamlit_model_dashboard.py - Screenshot
-<img src="https://github.com/Sibany/GenAI/images/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
 ---
+## 🖼️ streamlit_model_dashboard.py - Screenshot
+<img src="https://github.com/Sibany/GenAI/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
 
 ## 🚧 Installation
 
@@ -129,8 +130,9 @@ streamlit run streamlit_model_dashboard.py
 
 ## 🖼️ Screenshots
 <p float="left">
-  <img src="https://github.com/Sibany/GenAI/images/Screenshot_22.jpg" width="450" alt="Chatbot Interface"/>
-  <img src="https://github.com/Sibany/GenAI/images/WhatsApp%20Video%202025-08-06%20at%2022.26.36.gif" width="450" alt="Chatbot in Action (GIF)"/>
+  <img src="https://github.com/Sibany/GenAI/Screenshot_22.jpg" width="450" alt="Chatbot Interface"/>
+  <img src="https://github.com/Sibany/GenAI/WhatsApp%20Video%202025-08-06%20at%2022.26.36.gif" width="450" alt="Chatbot in Action (GIF)"/>
+<img src="https://github.com/Sibany/GenAI/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
 </p>
 
 ---
@@ -203,3 +205,4 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
