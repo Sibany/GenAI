@@ -12,7 +12,8 @@
 </p>
 
 ---
-<img src="https://github.com/Sibany/GenAI/images/screengif.gif" width="450" alt="Chatbot in Action (GIF)"/>
+## 🖼️ streamlit_main_new.py -Main agent Screenshot
+<img src="images/Screenshot_22.jpg" width="100%" alt="Chatbot in Action (GIF)"/>
 
 ## 💡 Overview
 This project provides a modular chatbot system with specialized agents designed to streamline the recruitment process.  
@@ -47,7 +48,7 @@ It leverages cutting-edge AI technologies to interact with candidates, assess th
 
 ---
 ## 🖼️ streamlit_model_dashboard.py - Screenshot
-<img src="https://github.com/Sibany/GenAI/images/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
+<img src="images/Screenshot_24.jpg" width="100%" alt="Model Evaluation Dashboard"/>
 
 ## 🚧 Installation
 
@@ -128,12 +129,8 @@ streamlit run streamlit_model_dashboard.py
 
 ---
 
-## 🖼️ Screenshots
-<p float="left">
-  <img src="https://github.com/Sibany/GenAI/images/Screenshot_22.jpg" width="450" alt="Chatbot Interface"/>
-  <img src="https://github.com/Sibany/GenAI/images/screengif.gif" width="450" alt="Chatbot in Action (GIF)"/>
-<img src="https://github.com/Sibany/GenAI/images/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
-</p>
+## 🖼️ Gif image of the module working behind the scene - Screenshots
+<img src="images/screengif.gif" width="100%" alt="Chatbot in Action (GIF)"/>
 
 ---
 
@@ -202,6 +199,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
