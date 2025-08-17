@@ -12,7 +12,7 @@
 </p>
 
 ---
-<img src="https://github.com/Sibany/GenAI/WhatsApp%20Video%202025-08-06%20at%2022.26.36.gif" width="450" alt="Chatbot in Action (GIF)"/>
+<img src="https://github.com/Sibany/GenAI/screengif.gif" width="450" alt="Chatbot in Action (GIF)"/>
 
 ## 💡 Overview
 This project provides a modular chatbot system with specialized agents designed to streamline the recruitment process.  
@@ -131,7 +131,7 @@ streamlit run streamlit_model_dashboard.py
 ## 🖼️ Screenshots
 <p float="left">
   <img src="https://github.com/Sibany/GenAI/Screenshot_22.jpg" width="450" alt="Chatbot Interface"/>
-  <img src="https://github.com/Sibany/GenAI/WhatsApp%20Video%202025-08-06%20at%2022.26.36.gif" width="450" alt="Chatbot in Action (GIF)"/>
+  <img src="https://github.com/Sibany/GenAI/screengif.gif" width="450" alt="Chatbot in Action (GIF)"/>
 <img src="https://github.com/Sibany/GenAI/Screenshot_24.jpg" width="450" alt="Model Evaluation Dashboard"/>
 </p>
 
@@ -175,10 +175,7 @@ recruiter-chatbot/
 ## 🔹 Future Improvements
 - [ ] Show all available interview slots for selected date.  
 - [ ] Add reminders/confirmations (email/SMS).  
-- [ ] Integrate Google/Outlook Calendar.  
-- [ ] Improve resume parsing.  
-- [ ] Add multi-user support + authentication.   
-
+...
 ---
 
 ## ⚠️ Troubleshooting
@@ -205,4 +202,5 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
