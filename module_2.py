@@ -7,7 +7,6 @@ openai_key = os.getenv("OPENAI_API_KEY")
 from langchain.document_loaders import PyPDFLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
-#from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
@@ -51,7 +50,6 @@ def info_advisor_fun_ction(candidate_message: str,retriever=retriever) -> str:
          ])
      response = llm.invoke(prompt.format_messages()) 
      content = response.content.strip().lower()
-    # Optional: parse the response into structured fields
      lines = content.splitlines()
      result = {
         "schedule": None,
