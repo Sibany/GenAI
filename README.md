@@ -146,7 +146,7 @@ streamlit run streamlit_model_dashboard.py
 
 <img src="images/screengif.gif" width="100%" alt="Chatbot in Action (GIF)"/>
 
-<img src="images/Screenshot_26.jpg" width="100%" alt="Chatbot in Action (GIF)"/>
+<img src="images/Screenshot_26.jpeg" width="100%" alt="Chatbot in Action (GIF)"/>
 
 ---
 
@@ -215,6 +215,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
