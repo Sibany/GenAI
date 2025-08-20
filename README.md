@@ -181,6 +181,41 @@ recruiter-chatbot/
 - **sms_conversations.json** → Raw data.  
 - **transformed_sms_conversations.json** → Processed version for evaluation dashboard.  
 
+
+## 🧪 Evaluation & Methodology
+
+### Objectives
+- Validate chatbot performance across **candidate profiling**, **Q&A**, **scheduling**, and **safe exits**.
+- Measure **accuracy**, **latency**, and **cost** trade-offs.
+
+### Data & Preparation
+- Resumes + job descriptions (**PDF**).
+- SMS-style dialogues (`sms_conversations.json`).
+- Preprocessed dataset (`transformed_sms_conversations.json`) for the dashboard.
+
+### Experiments
+- **QA Benchmark:** run `qa_tool_comparison.py` → outputs JSON with model results.
+- **Conversation Simulation:** run `convert_test_json.py` to generate synthetic recruiter–candidate flows.
+- **Scheduling Test:** validate slot booking & conflicts in **Tech** DB with `module_schedule.py`.
+
+### Metrics
+- **Answer quality:** accuracy, F1.
+- **Scheduling correctness:** valid booking rate.
+- **Conversation safety:** exit rate.
+- **Performance:** latency & cost.
+
+### Reproduce
+```bash
+python qa_tool_comparison.py
+python convert_test_json.py
+streamlit run streamlit_model_dashboard.py
+```
+
+# Visualization
+- Streamlit dashboard: streamlit_model_dashboard.py
+- Screenshots: images/Screenshot_24.jpg, images/screengif.gif
+
+<img src="images/Screenshot_24.jpg" width="270" alt="Model Evaluation Dashboard"/><img src="images/Screenshot_26.jpeg" width="270" alt="Chatbot in Action (GIF)"/><img src="images/screengif.gif" width="270" alt="Chatbot in Action (GIF)"/>
 ---
 
 
@@ -215,6 +250,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
