@@ -102,7 +102,18 @@ SQL_TRUSTED="yes"
 # USERNAME_SQL="your_username"
 # PASSWORD="your_password"
 ```
+## In some cases you will need to change the connection to DB
 
+# Use a completely different connection string format for Windows Authentication
+```
+connection_string_for_odbc = f"DRIVER={{{driver}}};SERVER={server};DATABASE={database};Trusted_Connection=Yes;"
+DATABASE_CONNECTION = f'mssql+pyodbc:///?odbc_connect={connection_string_for_odbc}'
+```
+
+## insted of
+```
+DATABASE_CONNECTION = f'mssql://{username}:{password}@{server}/{database}?driver={driver}'
+```
 ---
 
 ## 💾 Vector Store Setup (ChromaDB)
@@ -199,6 +210,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
