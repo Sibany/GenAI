@@ -55,14 +55,11 @@ Candidate message: "{candidate_message}"
 
     # Use tomorrow as default preferred date
     default_date = (datetime.strptime(current_date, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
-    #slots = mock_query_available_slots(default_date)
     slots = sql.check_dates(default_date)
 
     # Format and invoke the prompt
     messages = prompt.format_messages(slots=slots)
     response = llm.invoke(messages)
-
-    # Basic parsing (ideally use a structured parser)
     content = response.content
 
     # Try to extract a date from the response
@@ -82,8 +79,8 @@ Candidate message: "{candidate_message}"
         suggested_slots = fallback_slots(current_date)
 
     return {
-        #"preferred_date": preferred_date,
-        #"suggested_slots": suggested_slots,
+        "preferred_date": preferred_date,
+        "suggested_slots": suggested_slots,
         "explanation": content.strip()
     }
 
