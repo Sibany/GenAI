@@ -16,9 +16,9 @@ llm = ChatOpenAI(model="gpt-4", temperature=0.2)
 def prepare_job_description_retriever(pdf_path: str, persist_dir: str, openai_key: str):
     loader = PyPDFLoader(pdf_path)
     documents = loader.load()
-    embedding = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key=openai_key)# צור embeddings
-    db = Chroma.from_documents(documents, embedding, persist_directory=persist_dir)# צור vector store עם Chroma
-    return db.as_retriever()# צור רטריבר
+    embedding = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key=openai_key)
+    db = Chroma.from_documents(documents, embedding, persist_directory=persist_dir)
+    return db.as_retriever()
 
 
 retriever = prepare_job_description_retriever(
