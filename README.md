@@ -104,7 +104,7 @@ SQL_TRUSTED="yes"
 ```
 ## In some cases you will need to change the connection to DB insde the SQL.PY file
 
-<img src="images/Screenshot_25.jpg" width="100%" alt="Chatbot in Action (GIF)"/>
+<img src="images/Screenshot_25.jpg" width="100%" alt="DB Config"/>
 
 # Use a completely different connection string format for Windows Authentication
 ```
@@ -143,7 +143,10 @@ streamlit run streamlit_model_dashboard.py
 ---
 
 ## 🖼️ Gif image of the module working behind the scene - Screenshots
+
 <img src="images/screengif.gif" width="100%" alt="Chatbot in Action (GIF)"/>
+
+<img src="images/Screenshot_26.jpg" width="100%" alt="Chatbot in Action (GIF)"/>
 
 ---
 
@@ -212,6 +215,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
