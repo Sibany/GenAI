@@ -102,7 +102,7 @@ SQL_TRUSTED="yes"
 # USERNAME_SQL="your_username"
 # PASSWORD="your_password"
 ```
-## In some cases you will need to change the connection to DB
+## In some cases you will need to change the connection to DB insde the SQL.PY file
 
 # Use a completely different connection string format for Windows Authentication
 ```
@@ -210,6 +210,7 @@ pip install -U langchain-community langchain-openai
 - Shahaf Tobaly — 📧 tobaly.shahaf@gmail.com  
 - Nimrod Schweitzer — 📧 snimsss@gmail.com  
 - Maroon Sibany — 📧 Sibany85@gmail.com  
+
 
 
 
